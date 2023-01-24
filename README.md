@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Badhon Nath Joy</h1>
 <h3 align="center">A passionate problem solver</h3>
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **DSA & .NET**
 
 - 👨‍💻 All of my projects are available at [https://github.com/8ad40n](https://github.com/8ad40n)
 
