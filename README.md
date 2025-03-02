@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">Software Engineering Enthusiast<br><br>- 🔭 I’m currently a student of American International University-Bangladesh<br>- 📚 I'm currently learning Nest.js and Next.js</p>
+<p align="left">I am a dedicated Full Stack Developer and Software Engineer with expertise in both front-end and back-end technologies, including TypeScript, JavaScript, Express.js, Next.js, React, Nest.js, and REST APIs. With hands-on experience in database management using MongoDB, PostgreSQL, Mongoose, and TypeORM, I have successfully developed and deployed several projects. Additionally, I possess knowledge of basic machine learning, which allows me to integrate advanced capabilities into my work. Currently pursuing a degree in Computer Science and Engineering at American International University-Bangladesh, I am eager to apply my skills to create innovative solutions in the tech industry.</p>
 
 ###
 
@@ -43,13 +43,21 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=expressjs" height="40" alt="expressjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="12" />
@@ -70,10 +78,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
   <img width="12" />
